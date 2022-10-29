@@ -1,0 +1,25 @@
+{
+  "itemGroup.pozcraft.cigarette_cases": "Cigarette cases",
+  "itemGroup.pozcraft.kal": "Kalgroup",
+
+  "item.pozcraft.kalzak": "Calpack",
+  "pozcraft.tooltip.kalzak": "Backpack for cal",
+
+  "item.pozcraft.cigarette_case": "Cigarette case",
+  "item.pozcraft.cigarette_case_pink": "Cigarette case \"Hello Kitty\"",
+  "item.pozcraft.cigarette_case_red": "Malboro",
+  "item.pozcraft.cigarette_case_brown": "Chapman chocolate",
+  "item.pozcraft.cigarette_case_black": "Cigarette case \"Unknown Pleasures\"",
+  "item.pozcraft.cigarette_case_gray": "Cigarette case \"Molchat Doma\"",
+  "item.pozcraft.cigarette_case_blue": "Phillip Morris",
+  "item.pozcraft.cigarette_case_lime": "Cigarette case \"Watermelon\"",
+  "item.pozcraft.cigarette_case_magenta": "Cigarette case \"My Bloody Valentine\"",
+  "item.pozcraft.cigarette_case_purple": "Cigarette case \"Purple guy\"",
+  "item.pozcraft.cigarette_case_yellow": "Cigarette case named the sun",
+  "item.pozcraft.cigarette_case_cyan": "Mentol cigarette case",
+  "item.pozcraft.cigarette_case_light_gray": "Cigarette case \"Trollface\"",
+  "item.pozcraft.cigarette_case_white": "Transparent cigarette case with sequins",
+  "item.pozcraft.cigarette_case_orange": "Cigarette case \"BUERAK\"",
+  "item.pozcraft.cigarette_case_green": "Cigarette case \"Marijuana\"",
+  "item.pozcraft.cigarette_case_light_blue": "Russian style"
+}

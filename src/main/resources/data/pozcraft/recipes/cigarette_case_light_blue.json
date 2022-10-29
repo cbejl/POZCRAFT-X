@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pozcraft:cigarette_case"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "pozcraft:cigarette_case_light_blue",
+    "data": {
+      "$": "i0"
+    }
+  }
+}

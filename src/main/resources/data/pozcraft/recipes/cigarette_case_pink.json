@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pozcraft:cigarette_case"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "result": {
+    "item": "pozcraft:cigarette_case_pink",
+    "data": {
+      "$": "i0"
+    }
+  }
+}

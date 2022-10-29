@@ -1,0 +1,25 @@
+{
+  "itemGroup.pozcraft.cigarette_cases": "Портсигары",
+  "itemGroup.pozcraft.kal": "вКАЛдка",
+
+  "item.pozcraft.kalzak": "Калзак",
+  "pozcraft.tooltip.kalzak": "Рюкзак для кала",
+
+  "item.pozcraft.cigarette_case": "Портисгар",
+  "item.pozcraft.cigarette_case_pink": "Портсигар \"Hello Kitty\"",
+  "item.pozcraft.cigarette_case_red": "Мальборо",
+  "item.pozcraft.cigarette_case_brown": "Чапман шоколад",
+  "item.pozcraft.cigarette_case_black": "Портсигар \"Unknown Pleasures\"",
+  "item.pozcraft.cigarette_case_gray": "Портсигар \"Молчат дома\"",
+  "item.pozcraft.cigarette_case_blue": "Филип Моррис",
+  "item.pozcraft.cigarette_case_lime": "Портсигар \"Арбуз\"",
+  "item.pozcraft.cigarette_case_magenta": "Портсигар \"My Bloody Valentine\"",
+  "item.pozcraft.cigarette_case_purple": "Портсигар \"Purple guy\"",
+  "item.pozcraft.cigarette_case_yellow": "Портсигар по имени солнце",
+  "item.pozcraft.cigarette_case_cyan": "Сигареты с ментолом",
+  "item.pozcraft.cigarette_case_light_gray": "Портсигар \"Троллфейс\"",
+  "item.pozcraft.cigarette_case_white": "Прозрачный портсигар с блестками",
+  "item.pozcraft.cigarette_case_orange": "Портсигар \"Буеракус\"",
+  "item.pozcraft.cigarette_case_green": "Портсигар \"Марихуанна\"",
+  "item.pozcraft.cigarette_case_light_blue": "Русский стиль"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "pozcraft",
+  "version": "${version}",
+
+  "name": "POZCRAFT-X",
+  "description": "Русская тоска в майнкрафте!",
+  "authors": [
+    "CbeJl_Tpycbl - main-man", "jekell - textures", "    ",
+    "ULTRA THANKS FOR:", "    Siphalor - NBT Crafting (i love u man)",
+    "    SpyMan10 - BackpackMod (Nice mod. I cut out >half)"
+  ],
+  "contact": {
+    "homepage": "https://vk.com/pozcraft",
+    "sources": "https://github.com/cbejl/POZCRAFT-X"
+  },
+
+  "license": "Apache-2.0",
+  "icon": "assets/pozcraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cbejltpycbl.pozcraft.Main"
+    ],
+    "client": [
+      "net.cbejltpycbl.pozcraft.items.kalzak.client.BackpackModClient"
+    ]
+  },
+  "mixins": [
+    "pozcraft.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

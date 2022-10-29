@@ -1,0 +1,10 @@
+{
+    "type": "nbtcrafting:cauldron",
+    "input": {
+        "tag": "pozcraft:cigarette_case_color"
+    },
+    "result": {
+        "item": "pozcraft:cigarette_case"
+    },
+    "levels": 1
+}

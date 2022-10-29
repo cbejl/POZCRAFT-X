@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SMS",
+        "MCM",
+        "SMS"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:moss_block"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "pozcraft:kalzak",
+        "count": 1
+    }
+}
