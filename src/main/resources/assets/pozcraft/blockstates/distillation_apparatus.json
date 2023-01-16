@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pozcraft:block/distillation_apparatus"
+    },
+    "facing=south": {
+      "model": "pozcraft:block/distillation_apparatus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pozcraft:block/distillation_apparatus",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "pozcraft:block/distillation_apparatus",
+      "y": 90
+    }
+  }
+}

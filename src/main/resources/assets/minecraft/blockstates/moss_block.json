@@ -1,0 +1,48 @@
+{
+	"variants":{
+		"":[
+		{
+			"model":"minecraft:block/moss_block"
+		},
+		{
+			"model":"minecraft:block/moss_block", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_1"
+		},
+		{
+			"model":"minecraft:block/moss_block_1", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_2"
+		},
+		{
+			"model":"minecraft:block/moss_block_2", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_3"
+		},
+		{
+			"model":"minecraft:block/moss_block_3", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_4"
+		},
+		{
+			"model":"minecraft:block/moss_block_4", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_5"
+		},
+		{
+			"model":"minecraft:block/moss_block_5", "y": 180
+		},
+		{
+			"model":"minecraft:block/moss_block_6"
+		},
+		{
+			"model":"minecraft:block/moss_block_6", "y": 180
+		}
+	]
+	}
+}

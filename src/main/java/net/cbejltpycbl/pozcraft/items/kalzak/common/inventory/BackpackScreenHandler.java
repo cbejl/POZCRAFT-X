@@ -1,5 +1,6 @@
 package net.cbejltpycbl.pozcraft.items.kalzak.common.inventory;
 
+import net.cbejltpycbl.pozcraft.Pozcraft;
 import net.cbejltpycbl.pozcraft.items.kalzak.common.init.BackpackScreenHandlers;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;
@@ -9,11 +10,9 @@ import net.minecraft.screen.slot.Slot;
 import net.minecraft.screen.slot.SlotActionType;
 import net.minecraft.util.Identifier;
 
-import static net.cbejltpycbl.pozcraft.items.kalzak.common.BackpackMod.identify;
-
 public class BackpackScreenHandler extends ScreenHandler {
 
-    public static final Identifier IDENTIFIER = identify("generic_container");
+    public static final Identifier IDENTIFIER = new Identifier(Pozcraft.MOD_ID, "generic_container");
     private final BackpackInventory inv;
 
     public BackpackScreenHandler(PlayerInventory playerInv, int sync, BackpackInventory inv) {

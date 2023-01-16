@@ -1,6 +1,6 @@
 package net.cbejltpycbl.pozcraft.items.kalzak.common.inventory;
 
-import net.cbejltpycbl.pozcraft.items.kalzak.common.item.BackpackItem;
+import net.cbejltpycbl.pozcraft.items.KalzakItem;
 import net.minecraft.block.ShulkerBoxBlock;
 import net.minecraft.inventory.Inventory;
 import net.minecraft.item.BlockItem;
@@ -15,7 +15,7 @@ public class BackpackSlot extends Slot {
 
     @Override
     public boolean canInsert(ItemStack stack) {
-        if (stack.getItem() instanceof BackpackItem) {
+        if (stack.getItem() instanceof KalzakItem) {
             return false;
         }
 

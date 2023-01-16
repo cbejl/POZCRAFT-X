@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YZY",
+    "SSS"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "item": "minecraft:copper_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "pozcraft:distillation_apparatus",
+    "count": 1
+  }
+}

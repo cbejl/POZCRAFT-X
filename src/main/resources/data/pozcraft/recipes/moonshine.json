@@ -1,0 +1,12 @@
+{
+  "type": "pozcraft:distilling",
+  "ingredients": [
+    {
+      "item": "minecraft:poisonous_potato"
+    }
+  ],
+  "output": {
+    "item": "pozcraft:moonshine"
+  },
+  "time": 6000
+}

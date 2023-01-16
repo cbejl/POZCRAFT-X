@@ -2,8 +2,22 @@
   "itemGroup.pozcraft.cigarette_cases": "Cigarette cases",
   "itemGroup.pozcraft.kal": "Kalgroup",
 
+  "tooltip.pozcraft.shift": "§o§e(Shift for more information)",
+
+  "tooltip.pozcraft.kalzak": "Backpack for cal.",
+
+  "tooltip.pozcraft.beer": "Beer for a jerk.",
+  "tooltip.pozcraft.beer.shift1": "§l§aFire resistance §712 min.",
+  "tooltip.pozcraft.beer.shift2": "§4Hunger §72 min.",
+  "tooltip.pozcraft.beer.shift3": "§4Nausea §730 sec.",
+
+  "tooltip.pozcraft.moonshine" : "Does your mom let you drink that?",
+  "tooltip.pozcraft.moonshine.shift1" : "§l§aNight vision §78 min.",
+  "tooltip.pozcraft.moonshine.shift2" : "§l§aResistance III §78 мин.",
+  "tooltip.pozcraft.moonshine.shift3" : "§4Nausea §78 мин.",
+  "tooltip.pozcraft.moonshine.shift4" : "§7possible side effects.",
+
   "item.pozcraft.kalzak": "Calpack",
-  "pozcraft.tooltip.kalzak": "Backpack for cal",
 
   "item.pozcraft.cigarette_case": "Cigarette case",
   "item.pozcraft.cigarette_case_pink": "Cigarette case \"Hello Kitty\"",
@@ -21,5 +35,11 @@
   "item.pozcraft.cigarette_case_white": "Transparent cigarette case with sequins",
   "item.pozcraft.cigarette_case_orange": "Cigarette case \"BUERAK\"",
   "item.pozcraft.cigarette_case_green": "Cigarette case \"Marijuana\"",
-  "item.pozcraft.cigarette_case_light_blue": "Russian style"
+  "item.pozcraft.cigarette_case_light_blue": "Russian style",
+
+  "item.pozcraft.distillation_apparatus": "Distillation apparatus",
+  "item.pozcraft.beer": "Beer",
+  "item.pozcraft.moonshine": "Moonshine",
+
+  "block.pozcraft.distillation_apparatus": "Distillation apparatus"
 }

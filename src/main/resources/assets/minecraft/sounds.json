@@ -1,0 +1,396 @@
+{
+  "entity.zombie.ambient": {
+	"replace": "true",
+    "sounds": [
+      "mob/zombie/say1",
+      "mob/zombie/say2",
+      "mob/zombie/say3",
+      "dumar/say4",
+      "dumar/say5"
+    ],
+    "subtitle": "subtitles.entity.zombie.ambient"
+	},
+  "entity.zombie.hurt": {
+	"replace": "true",
+    "sounds": [
+      "mob/zombie/hurt1",
+      "mob/zombie/hurt2",
+      "dumar/hurt3"
+		  
+    ],
+	"subtitles": "subtitles.entity.zombie.hurt"
+	},
+  "entity.zombie.death": {
+	"replace": "true",
+    "sounds": [
+	"mob/zombie/death",
+	"dumar/death2"
+
+		  
+    ],
+	"subtitles": "subtitles.entity.zombie.death"
+	},
+
+  "entity.zombie_villager.ambient": {
+    "sounds": [
+      "mob/zombie_villager/say1",
+      "mob/zombie_villager/say2",
+      "mob/zombie_villager/say3",
+      "alko_jewish/say4"
+    ],
+    "subtitle": "subtitles.entity.zombie_villager.ambient"
+  },
+
+  "entity.husk.ambient": {
+    "sounds": [
+      "mob/husk/idle1",
+      "mob/husk/idle2",
+      "mob/husk/idle3",
+      "dumar/say4",
+      "dumar/say5"
+    ],
+    "subtitle": "subtitles.entity.husk.ambient"
+  },
+  "entity.husk.death": {
+    "sounds": [
+      "mob/husk/death1",
+      "mob/husk/death2"
+    ],
+    "subtitle": "subtitles.entity.husk.death"
+  },
+  "entity.husk.hurt": {
+    "sounds": [
+      "mob/husk/hurt1",
+      "mob/husk/hurt2",
+      "dumar/hurt3"
+    ],
+    "subtitle": "subtitles.entity.husk.hurt"
+  },
+
+  "entity.villager.ambient": {
+    "sounds": [
+      "mob/villager/idle1",
+      "mob/villager/idle2",
+      "mob/villager/idle3",
+	  "jewish/idle4",
+	  "jewish/idle5",
+	  "jewish/idle6",
+	  "jewish/idle7",
+	  "jewish/idle8",
+	  "jewish/idle9",
+	  "jewish/idle10",
+	  "jewish/idle11"
+    ],
+    "subtitle": "subtitles.entity.villager.ambient"
+  },
+  "entity.villager.celebrate": {
+    "sounds": [
+      "mob/villager/yes1",
+      "mob/villager/yes2",
+      "mob/villager/yes3",
+	  "jewish/yes4",
+	  "jewish/yes5"
+    ],
+    "subtitle": "subtitles.entity.villager.celebrate"
+  },
+
+  "entity.enderman.ambient": {
+    "sounds": [
+      "mob/endermen/idle1",
+      "mob/endermen/idle2",
+      "mob/endermen/idle3",
+      "mob/endermen/idle4",
+      "mob/endermen/idle5"
+    ],
+    "subtitle": "subtitles.entity.enderman.ambient"
+  },
+  "entity.enderman.death": {
+    "sounds": [
+      "mob/endermen/death"
+    ],
+    "subtitle": "subtitles.entity.enderman.death"
+  },
+  "entity.enderman.hurt": {
+    "sounds": [
+      "mob/endermen/hit1",
+      "mob/endermen/hit2",
+      "mob/endermen/hit3",
+      "mob/endermen/hit4"
+    ],
+    "subtitle": "subtitles.entity.enderman.hurt"
+  },
+  "entity.enderman.scream": {
+    "sounds": [
+      "mob/endermen/scream1",
+      "mob/endermen/scream2",
+      "mob/endermen/scream3",
+      "mob/endermen/scream4"
+    ],
+    "subtitle": "subtitles.entity.enderman.ambient"
+  },
+  "entity.enderman.stare": {
+    "sounds": [
+      "mob/endermen/stare"
+    ],
+    "subtitle": "subtitles.entity.enderman.stare"
+  },
+  "entity.enderman.teleport": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "subtitles.entity.enderman.teleport"
+  },
+
+
+  "music_disc.11": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/11",
+        "volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.13": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/13",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.blocks": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/blocks",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cat": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/cat",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.chirp": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/chirp",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.far": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/far",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mall": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/mall",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mellohi": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/mellohi",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.pigstep": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/pigstep",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.stal": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/stal",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.strad": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/strad",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wait": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/wait",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ward": {
+	"replace": "true",
+    "sounds": [
+      {
+        "name": "records/ward",
+		"volume": 0.8,
+        "stream": true
+      }
+    ]
+  },
+
+
+  "music.dragon": {
+    "sounds": [
+      {
+        "name": "music/game/end/boss",
+		"volume": 0.6,
+        "stream": true
+      }
+    ]
+  },
+  "entity.ender_dragon.ambient": {
+    "sounds": [
+      "mob/enderdragon/growl1",
+      "mob/enderdragon/growl2",
+      "mob/enderdragon/growl3",
+      "mob/enderdragon/growl4",
+	  "sinitca/growl5",
+      "sinitca/growl6",
+      "sinitca/growl7",
+      "sinitca/growl8",
+	  "sinitca/growl9",
+      "sinitca/growl10"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.ambient"
+  },
+  "entity.ender_dragon.death": {
+    "sounds": [
+      "mob/enderdragon/end"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.death"
+  },
+  "entity.ender_dragon.flap": {
+    "sounds": [
+      "mob/enderdragon/wings1",
+      "mob/enderdragon/wings2",
+      "mob/enderdragon/wings3",
+      "mob/enderdragon/wings4",
+      "mob/enderdragon/wings5",
+      "mob/enderdragon/wings6"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.flap"
+  },
+  "entity.ender_dragon.growl": {
+	"replace": "true",
+    "sounds": [
+      "mob/enderdragon/growl1",
+      "mob/enderdragon/growl2",
+      "mob/enderdragon/growl3",
+      "mob/enderdragon/growl4",
+	  "sinitca/growl5",
+      "sinitca/growl6",
+      "sinitca/growl7",
+      "sinitca/growl8",
+	  "sinitca/growl9",
+      "sinitca/growl10"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.growl"
+  },
+  "entity.ender_dragon.hurt": {
+    "sounds": [
+      "mob/enderdragon/hit1",
+      "mob/enderdragon/hit2",
+      "mob/enderdragon/hit3",
+      "mob/enderdragon/hit4"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.hurt"
+  },
+  "entity.ender_dragon.shoot": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.shoot"
+  },
+  
+
+  "block.portal.ambient": {
+    "sounds": [
+      {
+        "attenuation_distance": 10,
+		"volume": 0.5,
+        "name": "portal/portal"
+      }
+    ],
+    "subtitle": "subtitles.block.portal.ambient"
+  },
+  "block.portal.travel": {
+    "sounds": [
+		{
+		  "volume": 0.9,
+		  "name": "portal/travel"
+		}
+    ]
+  },
+  "block.portal.trigger": {
+    "sounds": [
+		{
+		  "volume": 0.8,
+		  "name": "portal/trigger"
+		}
+    ],
+    "subtitle": "subtitles.block.portal.trigger"
+  },
+
+  "entity.skeleton.step": {
+    "sounds": [
+      "mob/pig/step1",
+      "mob/pig/step2",
+      "mob/pig/step3",
+      "mob/pig/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  
+  "underwater.song": {
+      "category": "hostile","sounds": [
+        {"name": "custom/underwater","stream": true}]
+  }
+}
+
+	

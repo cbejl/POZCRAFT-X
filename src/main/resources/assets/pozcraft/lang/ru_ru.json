@@ -1,9 +1,20 @@
 {
-  "itemGroup.pozcraft.cigarette_cases": "Портсигары",
-  "itemGroup.pozcraft.kal": "вКАЛдка",
+  "tooltip.pozcraft.shift": "§o§e(Shift для большей информации)",
+
+  "tooltip.pozcraft.kalzak": "Рюкзак для кала.",
+
+  "tooltip.pozcraft.beer": "Пивка для рывка.",
+  "tooltip.pozcraft.beer.shift1": "§l§aОгнеупорность §712 мин.",
+  "tooltip.pozcraft.beer.shift2": "§4Пробило на хавчик §72 мин.",
+  "tooltip.pozcraft.beer.shift3": "§4Опьянение §730 сек.",
+
+  "tooltip.pozcraft.moonshine" : "Тебе мама разрешает такое пить?",
+  "tooltip.pozcraft.moonshine.shift1" : "§l§aНочное зрение §78 мин.",
+  "tooltip.pozcraft.moonshine.shift2" : "§l§aСопротивление III §78 мин.",
+  "tooltip.pozcraft.moonshine.shift3" : "§4Опьянение §78 мин.",
+  "tooltip.pozcraft.moonshine.shift4" : "§7возможны побочные эффекты.",
 
   "item.pozcraft.kalzak": "Калзак",
-  "pozcraft.tooltip.kalzak": "Рюкзак для кала",
 
   "item.pozcraft.cigarette_case": "Портисгар",
   "item.pozcraft.cigarette_case_pink": "Портсигар \"Hello Kitty\"",
@@ -21,5 +32,13 @@
   "item.pozcraft.cigarette_case_white": "Прозрачный портсигар с блестками",
   "item.pozcraft.cigarette_case_orange": "Портсигар \"Буеракус\"",
   "item.pozcraft.cigarette_case_green": "Портсигар \"Марихуанна\"",
-  "item.pozcraft.cigarette_case_light_blue": "Русский стиль"
+  "item.pozcraft.cigarette_case_light_blue": "Русский стиль",
+
+  "item.pozcraft.distillation_apparatus": "Самогонный аппарат",
+  "item.pozcraft.beer": "Пиво",
+  "item.pozcraft.moonshine": "Самогон",
+
+  "block.pozcraft.distillation_apparatus": "Самогонный аппарат",
+  "itemGroup.pozcraft.cigarette_cases": "Cigarette cases",
+  "itemGroup.pozcraft.kal": "Kalgroup"
 }

@@ -1,7 +1,7 @@
 package net.cbejltpycbl.pozcraft.items.kalzak.common.config;
 
 import com.google.gson.*;
-import net.cbejltpycbl.pozcraft.items.kalzak.common.item.BackpackItem;
+import net.cbejltpycbl.pozcraft.items.KalzakItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.util.Rarity;
@@ -67,7 +67,7 @@ public class BackpackEntry {
             settings.fireproof();
         }
 
-        return new BackpackItem(this.width, this.height, settings);
+        return new KalzakItem(this.width, this.height, settings);
     }
 
     public static final BackpackEntry create(String name, int width, int height, boolean fireproof, Rarity rarity) {

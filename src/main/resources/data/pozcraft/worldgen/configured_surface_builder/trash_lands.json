@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "minecraft:moss_block"
+    },
+    "under_material": {
+      "Name": "minecraft:dirt"
+    },
+    "underwater_material": {
+      "Name": "minecraft:diamond_block"
+    }
+  },
+  "type": "default"
+}

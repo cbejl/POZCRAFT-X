@@ -12,6 +12,14 @@ group = project.maven_group
 
 repositories {
 	maven { url "https://maven.shedaniel.me/" }
+	maven {
+		name "Siphalor's Maven"
+		url "https://maven.siphalor.de"
+	}
+	maven {
+		name "Jitpack"
+		url "https://jitpack.io"
+	}
 }
 
 dependencies {
@@ -26,6 +34,9 @@ dependencies {
 	modCompileOnly("me.shedaniel:RoughlyEnoughItems-fabric:9.0.491") {
 		exclude group: "net.fabricmc.fabric-api"
 	}
+
+	modImplementation "de.siphalor:nbtcrafting-1.19:2+"
+	include "de.siphalor:nbtcrafting-1.19:2+"
 	// Uncomment the following line to enable the deprecated Fabric API modules. 
 	// These are included in the Fabric API production distribution and allow you to update your mod to the latest modules at a later more convenient time.
 

@@ -1,0 +1,11 @@
+{
+  "type": "pozcraft:tosk",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "pozcraft:doomer_forest"
+    }
+  }
+}

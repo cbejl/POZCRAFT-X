@@ -21,10 +21,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.cbejltpycbl.pozcraft.Main"
+      "net.cbejltpycbl.pozcraft.Pozcraft"
     ],
     "client": [
-      "net.cbejltpycbl.pozcraft.items.kalzak.client.BackpackModClient"
+      "net.cbejltpycbl.pozcraft.PozcraftClient"
     ]
   },
   "mixins": [

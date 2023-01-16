@@ -1,0 +1,12 @@
+{
+  "type": "pozcraft:distilling",
+  "ingredients": [
+    {
+      "item": "minecraft:hay_block"
+    }
+  ],
+  "output": {
+    "item": "pozcraft:beer"
+  },
+  "time": 100
+}
